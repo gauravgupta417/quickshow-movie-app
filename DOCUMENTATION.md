@@ -145,7 +145,7 @@ VITE_BASE_URL =
 
 ## 📥 Clone the Repository
 ``` bash
-git clone https://github.com/Sreejib-Nandy/QuickShow.git
+git clone https://github.com
 cd QuickShow
 ```
 
@@ -158,7 +158,7 @@ npm run dev
 ```
 #### Backend will run at :
 ```bash
-http://localhost:5000
+http://localhost:3000
 ```
 
 #### Frontend
