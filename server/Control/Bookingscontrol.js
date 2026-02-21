@@ -75,8 +75,6 @@ export const createBooking = async (req, res) => {
             },
         })
         booking.paymentLink = session.url;
-        // booking.isPaid = true;
-        // // TODO: Replace with Stripe webhook after deployment
 
         await booking.save();
 
